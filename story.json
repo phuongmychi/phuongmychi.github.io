@@ -1,2 +1,6 @@
-items :[
-           'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/B%C3%A9_Y%C3%AAu_Ph%C6%B0%C6%A1ng_M%E1%BB%B9_Chi.jpg/800px-B%C3%A9_Y%C3%AAu_Ph%C6%B0%C6%A1ng_M%E1%BB%B9_Chi.jpg' ]
+{
+	"image": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/B%C3%A9_Y%C3%AAu_Ph%C6%B0%C6%A1ng_M%E1%BB%B9_Chi.jpg/800px-B%C3%A9_Y%C3%AAu_Ph%C6%B0%C6%A1ng_M%E1%BB%B9_Chi.jpg",
+		"https://live.staticflickr.com/65535/49626510286_e5c1107ab7_z.jpg"
+	]
+
+}
