@@ -31,6 +31,21 @@
                 "url":"que-em-mua-nuoc-lu",
                 "src":"que-em-mua-nuoc-lu.mp4"},
 
+                {"name":"Gái nhà nghèo", 
+                    "image":"img/gai-nha-ngheo.jpg",
+                    "url":"gai-nha-ngheo",
+                    "src":"gai-nha-ngheo.mp4"},
+                 
+                {"name":"Nhạt nắng", 
+                    "image":"img/xuan-dep-lam-sao.jpg",
+                    "url":"nhat-nang",
+                    "src":"nhat-nang.mp4"}, 
+                    
+                {"name":"Xuân đẹp làm sao", 
+                "image":"img/xuan-dep-lam-sao.jpg",
+                "url":"xuan-dep-lam-sao",
+                "src":"xuan-dep-lam-sao.mp4"},    
+
                 {"name":"Vùng lá me bay", 
                     "image":"img/vung-la-me.jpg",
                     "url":"vung-la-me-bay",
