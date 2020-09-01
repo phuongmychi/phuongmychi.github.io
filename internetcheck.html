@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<script>
+ var condition = navigator.onLine ? 'online' : 'offline';
+    if (condition === 'online') {
+      console.log('ONLINE');
+        fetch('https://www.google.com/', { // Check for internet connectivity
+            mode: 'no-cors',
+            })
+        .then(() => {
+            console.log('CONNECTED TO INTERNET');
+        }).catch(() => {
+           console.log('INTERNET CONNECTIVITY ISSUE');
+        }  )
+
+    }else{
+       console.log('OFFLINE')
+    }
+</scipt>
+</head>
+</html>
