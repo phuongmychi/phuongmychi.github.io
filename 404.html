@@ -1,1 +1,26 @@
-Hello world
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Error 404 NOT FOUND</title>
+     <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+  </head>
+  <body>
+  
+    <div id="lovemychi"></div>
+
+    <script type="text/babel">
+      class NotFound extends React.Component {
+        render() {
+          return(<div>
+          <h1>Error 404 NOT FOUND</h1>
+         <h3>Trang này không có hoặc đã bị xóa bỏ, vui lòng quay lại <a href='https://phuongmychi.github.io'>Trang chủ</a> </h3>
+      </div>)
+        }
+      }
+
+      ReactDOM.render(<NotFound />, document.getElementById('lovemychi'))
+    </script>
+  </body>
+</html>
