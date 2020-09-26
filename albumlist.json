@@ -1,0 +1,43 @@
+{
+    "Album": {
+        "items": [
+            {"name":"Album Quê em mùa nước lũ", 
+            "image":"https://i.scdn.co/image/ab67616d0000b2736f94bdfd2f2abd60d284518d",
+            "url" : "6RL9xTPTd736P5shVEXZxw",
+            "src":"noi-long-con-yeu.mp4"},
+
+            {"name":"Album Thương về miền trung", 
+            "image":"https://i.scdn.co/image/ab67616d0000b27392d93b42e214e97d0a91278a",
+            "url" :"0p4cYnAiZThXcX578LHQgN",
+            "src":"ganh-che-dem-cua-me.mp4"},
+            
+            {"name":"Album 16 xuân trăng", 
+                "image":"https://lite-images-i.scdn.co/image/ab67616d00001e0296f85f262137d8619ba78057",
+                "url":"4RDw7kMJ0IKbTegaIlv22l",
+                "src":"goi-nho-que-huong.mp4"},
+                
+            {"name":"Album Bát Nhã Thuyền", 
+                "image":"https://i.scdn.co/image/ab67616d0000b2736e9994db50dd71586a2f9338",
+                "url":"4LjsGscoS5Wjo4yW78a6Oq",
+                "src":"album-thuong-ve-mien-trung.mp4"},
+
+              {"name":"Tuyển tập những ca khúc hay nhất của Phương Mỹ Chi", 
+                "image":"https://i.scdn.co/image/ab67616d0000b27347e1fb5ba7a393c8e9ddd84c",
+                "url" :"34taSoI1qCzAl3NUVP6uj1",
+                "src":"ha-buon.mp4"},
+                
+                {"name":"Đường về quê", 
+                "image":"https://i.scdn.co/image/ab67616d0000b273cdcff01fc743d8d8aee5b49d",
+                "url":"356iAHCQPWtnHdtPxTHqLl",
+                "src":"que-em-mua-nuoc-lu.mp4"},
+
+                {"name":"Về quê ăn tết", 
+                    "image":"https://i.scdn.co/image/ab67616d0000b27384ea26ef40f1b476fa50b314",
+                    "url":"0qBAgryK4FU0YBJfVboSq8",
+                    "src":"gai-nha-ngheo.mp4"},
+                 
+              
+        ]
+       
+    }
+}
