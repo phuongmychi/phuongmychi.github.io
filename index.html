@@ -7,20 +7,14 @@
 <link rel="canonical" href="https://phuongmychi.vn">
 <meta name="p:domain_verify" content="63af693de50921cc83cf2e10f4260153"/>
   <script>
-  fetch('https://extreme-ip-lookup.com/json/')
-.then( res => res.json())
-.then(response => {
-    // console.log("Country: ", response.country);
-    if(response.country!='Vietnam'){
-      window.location.href = "https://phuongmychi.web.app/notavailable.html";
-    }
- })
- .catch((data, status) => {
-    console.log('Request failed');
- })
-</script>
+  var url = window.location.href;
+  if(url=='https://phuongmychi.github.io/'){
+    window.location.href = 'https://phuongmychi.vn';
+  }
+  </script>
 </head> 
  <body>
-  
+   <p>Bạn đang được chuyển hướng đến PMC Music...</p>
+   <p>Nếu bạn không được tự động chuyển hướng, vui lòng click : <a href='https://phuongmychi.vn'>Vào Đây</a></p>
  </body>  
 </html>
