@@ -1,10 +1,10 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "6ti9QKgRjggP6D_3plhMPSg2veA",
+  "etag": "UyWaZszSD6oRJhGXPb_QhAiq46g",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "tVIoNBxgrg8oekaxz5QmPJameao",
+      "etag": "z9AS6xAzSlAGZbBdjSJ1-v8d-qw",
       "id": "Ry5Ga-FcvIQ",
       "snippet": {
         "publishedAt": "2021-01-01T13:00:10Z",
@@ -68,6 +68,30 @@
           "description": "TUYỂN TẬP NHẠC TẾT 2021 - PHƯƠNG MỸ CHI\n\n#PhuongMyChi #AlbumTet2021 #HienThuc #TrungQuang #Sinike\n#PMCGroup #METUBNetwork #TếtTânSửu\n\n#VeQueAnTet #Gaixuan #Cauchuyendaunam #DuongVeQue #Motlandangdo #TetsungtucTetdoanvien #Canhthiepdauxuan\n\n\n🔥🛎 Follow Phương Mỹ Chi trên:\n☞ Tiktok: www.tiktok.com/@phuongmychiofficial\n☞ Facebook: https://www.facebook.com/phuongmychi\n☞ Instagram: https://www.instagram.com/phuongmychi\n☞ Youtube: https://www.youtube.com/user/C7PMC\n☞ Website: http://phuongmychi.com.vn/\n☞ Dailymotion: http://www.dailymotion.com/PhuongMyChiOfficial\n\nRất cảm ơn các bạn đã ủng hộ chúng tôi trong suốt thời gian qua. Ủng hộ kênh bằng cách bấm đăng ký và nhận thông báo từ kênh nhé!\n\n© Copyright by Phương Mỹ Chi\n© Copyright by Phuong My Chi ☞ Do not Reup\n\n☞ Các vấn đề về bản quyền, vui lòng liên hệ qua e-mail: pmcgroup.official@gmail.com. Xin cảm ơn!\n☞ For copyright issues, please contact e-mail: pmcgroup.official@gmail.com. Thank you!"
         },
         "defaultAudioLanguage": "vi"
+      },
+      "contentDetails": {
+        "duration": "PT30M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "55623",
+        "likeCount": "854",
+        "dislikeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "85"
       }
     }
   ],
