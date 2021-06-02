@@ -92,51 +92,7 @@
         }
       }
     },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "_0B5GRo40EgM6j6foJMTRm7P-mA",
-      "id": "UExfM0ZrTU90Y09Tc3loZmRNdjJiR2FJMWVXNkh0RXg1Si4wMTcyMDhGQUE4NTIzM0Y5",
-      "snippet": {
-        "publishedAt": "2020-08-18T02:35:34Z",
-        "channelId": "UCiox3pl9bimZrznTg4uPR3w",
-        "title": "Phương Mỹ Chi - Album Thương Về Miền Trung |  Những Ca Khúc Trữ Tình  Hay Nhất",
-        "description": "Album Thương về Miền Trung - Phương Mỹ Chi 2020 Full Official\nNhững Ca Khúc Trữ Tình Miền Trung  Hay Nhất\n* All audios in video protected by Youtube Digital Millennium Copyright Act\n\n☛ Có trên :\n☞ Spotify : https://spoti.fi/35OAi88\n☞ Youtube Music: https://www.youtube.com/playlist?list=OLAK5uy_loxn1lsP5l3v6sEgQCjeyoQI60ijigK5k\n☞ Buy now on Amazon : https://amzn.to/2Crq9Fd\n\n♫ Các bài hát :\n00:00 Thương Về Miền Trung \n4:37 Chờ người \n9:40 Chiều nước lũ \n13:54 Hình ảnh người em không đợi \n17:24 Mây chiều \n22:57 Sóc sờ bai sóc trăng \n26:45 Gánh chè đêm của mẹ \n32:30 Đèn khuya \n37:15 Nghĩa mẹ tình cha \n43:05 Khúc ca ngày mùa \n____________\nAlbum Product of Quang Le Entertainment , © 2017 - 2020 by Phuong My Chi Entertainment  CO.,LTD  , All rights reserved\n\nAlbum release date:\n4 November 2017\n\nFollow Phuong My Chi :\nFacebook : https://facebook.com/phuongmychi\nInstagram: https://instagram.com/phuongmychi\n\nFollow Phuong My Chi Entertainment :\nYoutube : https://youtube.com/phuongmychiofficial\nSpotify: https://spoti.fi/2HXTrMj\nInstagram :https://instagram.com/phuongmychi.ent\nWebsite : https://phuongmychi.web.app\n\nThis channel operated by PMC Entertainment CHSA ( Phuong My Chi Entertainment Content Hosting Services Agreement)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HTXHFMEtf0s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HTXHFMEtf0s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HTXHFMEtf0s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HTXHFMEtf0s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HTXHFMEtf0s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Phuong My Chi Entertainment",
-        "playlistId": "PL_3FkMOtcOSsyhfdMv2bGaI1eW6HtEx5J",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "HTXHFMEtf0s"
-        }
-      }
-    },
+   
     {
       "kind": "youtube#playlistItem",
       "etag": "b1AZYOuUXmpbfhUIhT_1xqkUxQI",
